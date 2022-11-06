@@ -18,7 +18,6 @@ int main()
     
   printf("%c alfabe karakteri degil.",ch);
 
- 
   return 0;
 
 }
